@@ -2,6 +2,7 @@ body {
     background: #eb5757;
     background: -webkit-linear-gradient(to right, #ffffff, #fbd743, #ff1f1f, #5db9ff, #363b81);
     background: linear-gradient(to right, #ffffff, #fbd743, #ff1f1f, #5db9ff, #363b81);
+    margin-top: 10%;
 }
 
 .center {
@@ -12,7 +13,7 @@ body {
 }
 
 .article-two {
-    width: 300px;
+    width: 290px;
     height: 300px;
     background-color: white;
     border-radius: 10%;
@@ -27,4 +28,11 @@ body {
 .button {
     width: 75px;
     margin: 25px;
+}
+
+.pokemonImages {
+    width: 275px;
+    height: 275px;
+    text-align: center;
+    margin: 0 auto;
 }
