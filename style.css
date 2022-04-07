@@ -1,4 +1,4 @@
-/* body {
+body {
     background: #eb5757;
     background: -webkit-linear-gradient(to right, #ffffff, #fbd743, #ff1f1f, #5db9ff, #363b81);
     background: linear-gradient(to right, #ffffff, #fbd743, #ff1f1f, #5db9ff, #363b81);
@@ -17,4 +17,4 @@
 
 .button {
     width: 75px;
-} */
+}
